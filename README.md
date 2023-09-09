@@ -50,11 +50,12 @@ By thoroughly understanding the dataset and conducting exploratory analysis, we 
 ## Dependencies
 The project requires the following dependencies:
 
-pandas
-matplotlib
-seaborn
-plotly
-numpy
+1. pandas
+2. numpy
+3. matplotlib
+4. seaborn
+5. plotly
+
 
 
 ## Conclusion
